@@ -1,4 +1,9 @@
 # Data-Normalization
+--------------------
+Python: 3.7.6
+Pycharm 2020.3.3
+
+
 
 Decimal Scaling Method For Normalization (Decimal_scaling.py)
 ----------------------------------------
